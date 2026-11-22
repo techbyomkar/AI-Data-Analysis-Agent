@@ -1,0 +1,6 @@
+pandas
+streamlit
+ollama
+duckdb
+plotly
+openpyxl
